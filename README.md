@@ -1,2 +1,2 @@
-# exoneracion
+# Taller exoneración
 no me exoneré :(
